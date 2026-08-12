@@ -1,4 +1,3 @@
-### NovelProtein
 ```
 Hey there,
 
