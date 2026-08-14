@@ -12,6 +12,6 @@ My current projects:
 
 My interests include:
 - Genetics
-- Frogs
+- Frogs 🐸
 - Creating music
 - Gardening 
